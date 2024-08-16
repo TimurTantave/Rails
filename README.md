@@ -8,4 +8,4 @@
 ##
 ![](https://github.com/TimurTantave/Rails/blob/main/vE8obx8uQzE.jpg?raw=true)
 ##
-[Скачать работу](https://github.com/TimurTantave/Rails/blob/main/dob.rar)
+[Скачать работу](https://github.com/TimurTantave/Rails/raw/main/dob.rar)
